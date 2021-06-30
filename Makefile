@@ -12,7 +12,7 @@ edit e:
 	@echo "> make (edit) [1:local|2:cobot]"
 
 #----------------------------------------------------------------------------------
-MSG="start"
+MSG="start-access-token"
 git g:
 	@echo "> make (git:g) [update|store]"
 
